@@ -51,4 +51,4 @@ async def on_message(message):
         print(message," ",message.content)
         await client.send_message(message.channel,response)
 while True:
-    client.run("NDc0OTQ5NDYyMjI2MjM5NDk5.DoGhXQ.tZlLRrGepvcXDbihQtTLY96r5UM")
+    client.run(os.getenv('TOKEN'))
