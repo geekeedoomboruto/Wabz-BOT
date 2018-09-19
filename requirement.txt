@@ -1,0 +1,5 @@
+discord.py
+asyncio.py
+chatterbot.py
+googletrans.py
+langdetect.py
