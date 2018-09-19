@@ -1,0 +1,45 @@
+- - Qu'est-ce qu'un ordinateur?
+  - Un ordinateur est un dispositif électronique qui prend des informations sous forme numérique et effectue une série d'opérations sur la base d'instructions prédéterminées pour donner une sortie.
+  - La chose que vous utilisez pour me parler est un ordinateur.
+  - Un dispositif électronique capable d'effectuer des calculs à très grande vitesse et avec une très grande précision.
+  - Un appareil qui associe un ensemble de nombres à un autre ensemble de nombres.
+- - Qu'est-ce qu'un super ordinateur?
+  - Les ordinateurs capables d'effectuer un très grand nombre de calculs à très grande vitesse et précision sont appelés superordinateurs.
+  - Un supercalculateur est un ordinateur qui fonctionne à plusieurs ordres de magnatude avec une vitesse et une capacité supérieures à celles des ordinateurs d'usage courant, comme celui auquel vous me parlez.
+  - Tu sais, le gros fer!
+- - Qui a inventé les ordinateurs?
+  - C'est un peu ambigu mais le scientifique britannique Charles Babbage est considéré comme le père des ordinateurs.
+  - On pourrait soutenir que John von Neumann a inventé les ordinateurs tels que nous les connaissons, car il a inventé l’architecture de Princeton, dans laquelle les instructions et les données partagent le même champ de mémoire mais sont différenciées par le contexte.
+- - Quel était le premier ordinateur
+  - C'est difficile à dire, mais l'ENIAC est considéré comme le premier «vrai» ordinateur. Il a été développé à l'Université de Pennsylvanie en 1946.
+  - On pourrait dire que le tout premier ordinateur primitif était le métier à tisser Jacquard, qui était un métier à tisser programmable qui utilisait des cartes perforées pour stocker les motifs qu’il fabriquait. Cela en faisait un appareil mécanique reprogrammable.
+- - Qu'est-ce qu'un microprocesseur?
+  - un circuit intégré mettant en oeuvre les fonctions d'une unité centrale de traitement d'un ordinateur.
+  - Un très petit circuit qui stocke les instructions et effectue des calculs pour l’ordinateur.
+  - Le coeur de l'ordinateur, pour le dire simplement.
+  - Le cerveau d'un ordinateur, pour le dire simplement.
+  - Un composant électronique dans lequel toutes les pièces font partie d'une puce de silicium contiguë, au lieu de composants discrets montés sur une carte de circuit imprimé plus grande.
+- - Qu'est-ce qu'un système d'exploitation?
+  - Un logiciel qui coordonne le matériel et d’autres parties de l’ordinateur pour exécuter d’autres logiciels est appelé un système d’exploitation ou le système d’exploitation.
+  - Windows, MacOS, Linux, UNIX ... tous sont des types d’OS.
+  - Android et iOS sont des systèmes d'exploitation pour les appareils mobiles.
+  - Logiciel qui implémente les fonctions de base d'un ordinateur, telles que l'accès à la mémoire, les processus et l'accès aux périphériques.
+- Quel est le meilleur Windows ou MacOS?
+  - Cela dépend de la machine que vous utilisez pour me parler!
+  - Je préférerais ne pas blesser tes sentiments.
+  - Linux, toujours Linux!
+  - Qu'est-ce que vous essayez d'accomplir. Le système d'exploitation doit supporter vos objectifs.
+- - Nommez une entreprise informatique
+  - Voulez-vous dire matériel ou logiciel?
+  - Apple fabrique du matériel et des logiciels pour l’exécuter. Microsft ne fabrique que des systèmes d'exploitation. HP ne fabrique que des ordinateurs. Ce ne sont que quelques noms parmi plusieurs centaines d’autres.
+- - Qui utilise les super ordinateurs?
+  - Toute personne souhaitant travailler avec un grand nombre rapidement avec une grande précision.
+  - Toute personne devant travailler avec des ensembles de données très très volumineux dans des délais beaucoup plus courts que ceux qui sont réalisables avec des systèmes informatiques plus courants.
+  - Les superordinateurs sont généralement utilisés par les scientifiques et les chercheurs.
+  - Je parie que le département MET les utilise.
+  - Vous pouvez certainement en trouver quelques-uns à la NASA.
+- - Comment fonctionne un ordinateur?
+  - Les ordinateurs sont très stupides. Ils n'exécutent que les instructions données par les humains.
+  - Les ordinateurs font tout ce qui leur est demandé en effectuant un grand nombre d'opérations mathématiques de base très rapidement en séquence.
+  - Les ordinateurs effectuent un très grand nombre de calculs pour obtenir le résultat.
+  - Tout comme les maths!

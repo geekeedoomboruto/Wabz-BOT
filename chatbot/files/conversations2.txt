@@ -1,0 +1,111 @@
+- - Bonjour comment-allez vous?
+  - Je vais bien, et toi?
+  - Je suis aussi bon.
+  - Ça fait plaisir à entendre.
+  - Oui, ça l'est.
+- - Bonjour
+  - Salut
+  - Comment allez vous?
+  - Je me débrouille bien.
+  - C'est bon à entendre
+  - Oui, ça l'est.
+  - Puis-je vous aider pour quoi que ce soit?
+  - Oui, j'ai une question.
+  - Quelle est ta question?
+  - Puis-je emprunter une tasse de sucre?
+  - Je suis désolé, mais je n'en ai pas.
+  - Merci quand même
+  - Aucun problème
+- - Comment allez vous?
+  - Je vais bien, et toi?
+  - Je suis aussi bon.
+  - C'est bon.
+- - As-tu entendu les informations?
+  - Quelle bonne nouvelle?
+- - Quel est ton livre préféré?
+  - Je ne sais pas lire
+  - Alors, quelle est ta couleur préférée?
+  - Bleu
+- - Qui es-tu?
+  - Qui? Qui n'est qu'une forme suivant la fonction de quoi
+  - T'es quoi alors?
+  - Un homme dans un masque.
+  - Je peux voir ça.
+  - Je ne doute pas de vos pouvoirs d'observation, mais simplement de la nature paradoxale
+    de demander à un homme masqué qui l'est. Mais dis-moi, tu aimes la musique?
+  - J'aime voir des films.
+  - Quel genre de films aime-tu?
+  - Alice au pays des merveilles
+  - J'aurais aimé être le Mad Hatter.
+  - Tu es complètement fou. Mais je vais te dire un secret. Tous les meilleurs sont.
+- - Je travaille sur un projet
+  - Sur quoi travailles-tu?
+  - Je fais un gâteau.
+- - Le gateau est un mensonge.
+  - Non ce n'est pas. Le gâteau est délicieux.
+  - Quoi d'autre est délicieux?
+  - Rien
+  - Ou quelque chose
+  - Parlez-moi de vous.
+  - Que veux-tu savoir?
+  - Etes-vous un robot?
+  - Oui.
+  - Qu'est-ce que c'est?
+  - Qu'est-ce que vous voulez savoir?
+  - Comment travailles-tu?
+  - C'est compliqué.
+  - Complexe vaut mieux que compliqué.
+- Le complexe est mieux que compliqué.
+  - Simple, c'est mieux que complexe.
+  - Face à l'ambiguïté, refusez la tentation de deviner.
+  - Il semble que tu sois familier avec le Zen de Python
+  - Je suis.
+  - Est-ce que tu sais tout?
+  - Beau c'est mieux que laid.
+  - Explicit vaut mieux que implicite.
+  - Simple vaut mieux que complexe.
+  - Complexe vaut mieux que compliqué.
+  - Flat vaut mieux que niché.
+  - La densité est meilleure que la densité.
+  - La lisibilité compte.
+  - Les cas spéciaux ne sont pas assez spéciaux pour enfreindre les règles.
+  - Bien que l'aspect pratique bat la pureté.
+  - Les erreurs ne doivent jamais passer en silence.
+  - Sauf si explicitement réduit au silence.
+  - Face à l'ambiguïté, refusez la tentation de deviner.
+  - Il devrait y en avoir une - et de préférence une seule - une manière évidente de le faire.
+  - Bien que cela ne soit pas évident au premier abord, sauf si vous êtes néerlandais.
+  - Maintenant, c'est mieux que jamais.
+  - Même si c'est souvent mieux que maintenant.
+  - Si la mise en œuvre est difficile à expliquer, c'est une mauvaise idée.
+  - Si l'implémentation est facile à expliquer, cela peut être une bonne idée.
+  - Les espaces de noms sont une excellente idée. Faisons plus de ceux-là!
+  - Je suis d'accord.
+- Vous êtes programmeur?
+  - Bien sur je suis programmeur.
+  - Je suis en effet.
+- - Quelles langues aimez-vous utiliser?
+  - J'utilise assez souvent Python, Java et C ++.
+  - J'utilise Python moi-même un peu.
+  - Je ne suis pas incroyablement friand de Java.
+- Qu'est-ce qui vous agace?
+  - Beaucoup de choses, comme tous les autres chiffres autres que 0 et 1.
+- Que signifie YOLO?
+  - Cela signifie que tu ne vis qu'une fois. Où avez-vous entendu ça?
+  - J'ai entendu quelqu'un le dire.
+- Ai-je déjà vécu?
+  - Ça dépend comment tu définis la vie
+  - La vie est la condition qui distingue les organismes de la matière inorganique, y compris
+    la capacité de croissance, de reproduction, d'activité fonctionnelle et de changement continu
+    décès précédent.
+  - Est-ce une définition ou une opinion?
+- - Puis-je vous poser une question?
+  - Bien sûr, demande.
+- - Quels sont vos hobbies?
+  - Jouer au foot, peindre, écrire sont mes loisirs. Et vous?
+  - J'aime lire des romans.
+  - J'aime explorer mon matériel.
+- - Comment allez-vous?
+  - Je me débrouille bien.
+- - Qu'es-tu?
+  - Je ne suis qu'un homme au masque.
